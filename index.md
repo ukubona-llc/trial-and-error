@@ -1,6 +1,16 @@
+# Preface
+
+```
+I. Kampala
+II. Baltimore
+III. Virginia
+IV. Staten Island
+V. Nairobbi -> I'
+```
+
 Hamlet's line lands here, and it carries a warning: he swears his thoughts will be bloody, then spends most of the fourth act still not acting. Resolve isn't the same as shipping. The shipping is the point.
 
-I'd back the mission, with one sharpening. Trial and error is the engine, but it only compounds if the error changes something. Selection without retention is a random walk. That's the strongest idea in the second document: the V → I′ edge, where the output alters the substrate the next cycle starts from. Two apps shipped to clients can be two rings or the same ring drawn twice, and what separates them is whether the second one started from something the first one taught you.
+I'd back the [mission](https://ukb-dt.github.io/nairobi/), with one sharpening. Trial and error is the engine, but it only compounds if the error changes something. Selection without retention is a random walk. That's the strongest idea in the second document: the V → I′ edge, where the output alters the substrate the next cycle starts from. Two apps shipped to clients can be two rings or the same ring drawn twice, and what separates them is whether the second one started from something the first one taught you.
 
 Prigogine's dissipative structures fit this. They hold their form only while energy flows through them, so a shipping cadence is the throughput that keeps the structure alive, and stopping is how it dies. The streets have memory too: reputation, scars, who pays late, which feature nobody opened. That's the substrate.
 
