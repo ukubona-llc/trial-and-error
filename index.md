@@ -5,7 +5,7 @@ I. Kampala
 II. Baltimore
 III. Virginia
 IV. Staten Island
-V. Nairobbi -> I'
+V. Nairobi -> I'
 ```
 
 Hamlet's line lands here, and it carries a warning: he swears his thoughts will be bloody, then spends most of the fourth act still not acting. Resolve isn't the same as shipping. The shipping is the point.
