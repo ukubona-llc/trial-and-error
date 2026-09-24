@@ -14,7 +14,7 @@ I'd back the [mission](https://ukb-dt.github.io/nairobi/), with one sharpening. 
 
 Prigogine's dissipative structures fit this. They hold their form only while energy flows through them, so a shipping cadence is the throughput that keeps the structure alive, and stopping is how it dies. The streets have memory too: reputation, scars, who pays late, which feature nobody opened. That's the substrate in 2026.
 
-In practice, each ship should leave a small record of what the client did with it, what surprised you, and what default, schema, or assumption changed as a result. Keep it to a few lines, like a growth ring. Then iteration accumulates instead of churning.
+In [practice](https://ukubona-llc.github.io/trial/), each ship should leave a small record of what the client did with it, what surprised you, and what default, schema, or assumption changed as a result. Keep it to a few lines, like a growth ring. Then iteration accumulates instead of churning.
 
 The claim "nothing will ever surpass trial and error" I'd trim slightly. Nothing replaces it, but the FOXP2 lesson applies: no single mechanism does the work alone. Judgment about which trials to run, and the cost of each one, decides how fast you learn per iteration. Cheap, small, reversible ships beat big ones, which is where your never-break-the-original habit pays off.
 
